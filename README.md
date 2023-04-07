@@ -1,3 +1,15 @@
+# AI-Agents
+This project demonstrates the implementation of multiple AI algorithms to solve the Sokoban game. By utilizing various algorithms, such as BFS, DFS, A*, MCTS, Genetic Algorithm, Hill Climber, KNN, Perceptron, Decision Tree, MLP, k-means, and AGNES, this project demonstrates the ability to work with a variety of AI techniques.
+
+# Usage
+To run this project, simply clone the repository to your local machine and run the agent.py from the command line or from your preferred IDE. Below are more instructions.
+
+# Contributing
+If you wish to contribute to this project, please fork the repository and make your changes in a separate branch. Once you have made your changes, submit a pull request with a clear description of your changes and why they are necessary.
+
+# Acknowledgments
+This project was developed as part of a coursework for artificial intelligence. We would like to acknowledge the instructor and teaching assistants for their guidance and support throughout the course.
+
 # Sokoban Environment - NYU CS-GY6613
 ---
 ## Prerequisites
